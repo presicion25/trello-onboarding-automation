@@ -26,7 +26,7 @@ Automation ensures every new client goes through the exact same onboarding steps
 
  Clients can immediately engage with their projects leading to higher satisfaction and quicker realization of the value they're paying for.
 
- To view the automation click the arrow below:
+<h2>To view the automation click the arrow below:</h2> 
 
   <details close>
 

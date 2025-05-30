@@ -35,6 +35,6 @@ Automation ensures every new client goes through the exact same onboarding steps
 </summary>
  
 
-</hs><a href="[https://www.exemplarysecurity.com](https://vimeo.com/1088017457)"></a></h2>
+</hs><a href="[https://vimeo.com/1088017457]">Trello Automation</a></h2>
 
-<img src="https://i.imgur.com/iHgLKfg.png" width="50%">
+

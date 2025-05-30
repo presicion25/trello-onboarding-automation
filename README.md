@@ -12,17 +12,17 @@
 
 Three key advantages of a client onboarding automation:
 
--Consistent Process Execution:
+-<h2>Consistent Process Execution:</h2>
 
 Automation ensures every new client goes through the exact same onboarding steps without variation or human oversight gaps 
 
 
--Significant Time and Resource Savings:
+-<h2>Significant Time and Resource Savings:</h2>
 
  Automation handles these routine activities instantly, freeing your team to focus on high-value client relationship building and strategic work. 
 
 
--Enhanced Client Experience and Faster Time-to-Value:
+-<h2>Enhanced Client Experience and Faster Time-to-Value:</h2>
 
  Clients can immediately engage with their projects leading to higher satisfaction and quicker realization of the value they're paying for.
  <br/>

@@ -26,3 +26,4 @@ Automation ensures every new client goes through the exact same onboarding steps
 
  The automation can be viewed here:
 
+[![Watch the video](https://vimeo.com/1088017457?share=copy)

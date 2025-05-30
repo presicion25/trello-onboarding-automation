@@ -5,7 +5,7 @@
 </p>
 
 
-# <b>This Trello onboarding scenario uses information through some type of trigger (Online Form, Email, etc) to create a client Trello board using the following info (for testing purposes): Company Name, Payment amount, Client Name, Email, Sales Person Name. It then creates multiple Trello cards with next step instructions for the sales person (or whoever it is assigned to) to proceed with the onboarding while also giving project transparency to the client.  
+<b>This Trello onboarding scenario uses information through some type of trigger (Online Form, Email, etc) to create a client Trello board using the following info (for testing purposes): Company Name, Payment amount, Client Name, Email, Sales Person Name. It then creates multiple Trello cards with next step instructions for the sales person (or whoever it is assigned to) to proceed with the onboarding while also giving project transparency to the client.  
 
 </br>
 </br?

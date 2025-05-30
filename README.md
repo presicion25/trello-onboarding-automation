@@ -1,5 +1,3 @@
-# Trello Onboarding Automation
+Trello Onboarding Automation
 
-<p>
-<img src="https://imgur.com/URWoLbT.png">
-</p>
+![Content Logic Dynamics](https://imgur.com/ZEGMIkU.png)

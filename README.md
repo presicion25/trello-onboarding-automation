@@ -8,21 +8,21 @@
 <b>This Trello onboarding scenario uses information through some type of trigger (Online Form, Email, etc) to create a client Trello board using the following info (for testing purposes): Company Name, Payment amount, Client Name, Email, Sales Person Name. It then creates multiple Trello cards with next step instructions for the sales person (or whoever it is assigned to) to proceed with the onboarding while also giving project transparency to the client.  
 
 </br>
-</br?
+</br>
 
 Three key advantages of a client onboarding automation:
 
--<h2>Consistent Process Execution:</h2>
+1. <h2>Consistent Process Execution:</h2>
 
 Automation ensures every new client goes through the exact same onboarding steps without variation or human oversight gaps 
 
 
--<h2>Significant Time and Resource Savings:</h2>
+2. <h2>Significant Time and Resource Savings:</h2>
 
  Automation handles these routine activities instantly, freeing your team to focus on high-value client relationship building and strategic work. 
 
 
--<h2>Enhanced Client Experience and Faster Time-to-Value:</h2>
+3. <h2>Enhanced Client Experience and Faster Time-to-Value:</h2>
 
  Clients can immediately engage with their projects leading to higher satisfaction and quicker realization of the value they're paying for.
  <br/>

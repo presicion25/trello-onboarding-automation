@@ -1,1 +1,1 @@
-# trello-onboarding-automation
+# Trello Onboarding Automation

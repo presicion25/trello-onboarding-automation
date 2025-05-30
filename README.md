@@ -26,4 +26,4 @@ Automation ensures every new client goes through the exact same onboarding steps
 
  The automation can be viewed here:
 
- [<img src="[https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://vimeo.com/1088017457?share=copy) "Trello Onboarding Scenario")
+<script type="module" src="[https://cdn.jsdelivr.net/npm/lite-vimeo-embed/+esm](https://vimeo.com/1088017457?share=copy)"></script>

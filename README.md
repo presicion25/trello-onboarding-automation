@@ -23,3 +23,7 @@ Automation ensures every new client goes through the exact same onboarding steps
 -Enhanced Client Experience and Faster Time-to-Value:
 
  Clients can immediately engage with their projects leading to higher satisfaction and quicker realization of the value they're paying for.
+
+ The automation can be viewed here:
+
+ [<img src="[https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://vimeo.com/1088017457?share=copy) "Trello Onboarding Scenario")

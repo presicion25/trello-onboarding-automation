@@ -35,6 +35,6 @@ Automation ensures every new client goes through the exact same onboarding steps
 </summary>
  
 
-</hs>img src="https://i.imgur.com/iHgLKfg.png <a href="https://vimeo.com/1088017457">Trello Automation</a></h2>
+</hs><a href="https://vimeo.com/1088017457">Trello Automation</a></h2>
 
 

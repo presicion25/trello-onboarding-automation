@@ -1,3 +1,3 @@
 # Trello Onboarding Automation
 
-[Imgur](https://imgur.com/u6y42um)
+[img]https://i.imgur.com/u6y42um.png[/img]

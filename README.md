@@ -25,6 +25,8 @@ Automation ensures every new client goes through the exact same onboarding steps
 -Enhanced Client Experience and Faster Time-to-Value:
 
  Clients can immediately engage with their projects leading to higher satisfaction and quicker realization of the value they're paying for.
+ <br/>
+ <br/>
 
 <h2>To view the automation click the arrow below:</h2> 
 

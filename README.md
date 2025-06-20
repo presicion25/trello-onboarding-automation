@@ -38,6 +38,6 @@ Automation ensures every new client goes through the exact same onboarding steps
 
 </hs><a href="https://vimeo.com/1088017457">Trello Automation</a></h2>
 
-[![Attack Traffic Generation](https://i.vimeocdn.com/video/1652903501-b510d35495ade6423ad90d527f2b0d248362b1912a0b85e1ec721bc514931d80-d_295x166?r=pad)](https://vimeo.com/816320878 "Attack Traffic Generation")
+[![Trello Onboarding Automation](https://i.vimeocdn.com/video/2020151010-fe64ee991063de1e15005bcd8bbe0acad02e2cc3ea1007b34d4dd0a91e010586-d_142x80?&r=pad&region=us)(https://vimeo.com/1088017457?share=copy#t=0)]
 
 

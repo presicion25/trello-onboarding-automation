@@ -1,7 +1,7 @@
 # Trello Onboarding Automation
 
 <p>
-<img src="https://i.imgur.com/iHgLKfg.png alt"Resource Group"/?
+<img src="https://i.imgur.com/iHgLKfg.png](https://ibb.co/NdCnjcm5 alt"Resource Group"/?
 </p>
 
 
